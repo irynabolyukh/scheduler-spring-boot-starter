@@ -1,4 +1,4 @@
-package com.schedulerspringbootstarter.service;
+package com.example.schedulerspringbootstarter.service;
 
 public interface ScheduleService {
 
