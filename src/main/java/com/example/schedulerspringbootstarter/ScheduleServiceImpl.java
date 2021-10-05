@@ -1,4 +1,4 @@
-package com.example.schedulerspringbootstarter.service;
+package com.example.schedulerspringbootstarter;
 
 public class ScheduleServiceImpl implements ScheduleService {
     @Override

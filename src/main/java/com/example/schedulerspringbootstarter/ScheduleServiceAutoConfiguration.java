@@ -1,7 +1,5 @@
-package com.example.schedulerspringbootstarter.config;
+package com.example.schedulerspringbootstarter;
 
-import com.example.schedulerspringbootstarter.service.ScheduleService;
-import com.example.schedulerspringbootstarter.service.ScheduleServiceImpl;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.context.annotation.Bean;
