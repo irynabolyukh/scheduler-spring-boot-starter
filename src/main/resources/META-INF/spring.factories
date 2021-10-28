@@ -1,4 +1,3 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.example.schedulerspringbootstarter.ScheduleServiceAutoConfiguration,\
 com.example.schedulerspringbootstarter.SecurityConfig,\
 com.example.schedulerspringbootstarter.WebSecurityConfig
